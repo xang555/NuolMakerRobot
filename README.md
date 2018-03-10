@@ -1,4 +1,4 @@
-# NuolMakerRobot
- Nuolmaker Robot Manual and Auto Robot
-
-- L298MD is library for L298 Module
+# NuolMaker Robot
+ Nuolmaker Robot arduino code for Manual and Auto Robot
+# note
+librarys/L298MD use for robot version 2016
